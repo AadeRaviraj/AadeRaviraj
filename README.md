@@ -6,6 +6,7 @@
 
 <br/>
 ### 🚀 About Me
+<br/>
 
 🔭 **Software Developer** | 1.5 Years Experience in C# (.NET) | Python | AI | Backend Development  
 
