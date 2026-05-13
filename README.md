@@ -100,6 +100,8 @@ MySQL  |  Oracle  |  Firebase
  
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
   &nbsp;
+    <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21~bgwhite.svg" width="40" height="40"/></a>
+  &nbsp;
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
   &nbsp;
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
@@ -115,11 +117,10 @@ MySQL  |  Oracle  |  Firebase
   &nbsp;
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
   &nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-
-  &nbsp;
   <a href="https://supabase.com/docs" target="_blank"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" height="40"/></a>
- 
+      &nbsp;
+      
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a> 
 </p>
 
 ---
