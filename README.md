@@ -15,7 +15,6 @@
 - 🐍 Actively upskilling in **Python, AI/ML, and Backend Development** — open to opportunities
 - 🤖 Deeply focused on **Machine Learning**, **Deep Learning**, and **NLP**
 - 🔧 Strong in **Backend Development** — REST APIs, system design, and automation
-- 🌱 Learning **Django** for backend and expanding into **CI/CD with GitHub Actions**
 - 💬 Ask me about **C#, Python, AI/ML, Flask, Backend Development**
 - 📫 Reach me at **raviraj.s.aade@gmail.com**
 - ⚡ Continuously learning and building — one project at a time
